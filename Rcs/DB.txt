@@ -1,0 +1,1 @@
+SELECT * FROM student INNER JOIN ON student.teacher = teacher.teacherNum
